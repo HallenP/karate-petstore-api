@@ -1,0 +1,20 @@
+CONCLUSIONES DEL EJERCICIO
+
+- Validar servicios REST de la API pública PetStore.
+- Automatizar operaciones CRUD sobre el recurso "pet".
+- Validar status codes y respuestas JSON.
+- Documentar correctamente el proyecto para su ejecución.
+
+APRENDIZAJES
+
+- Interpretación de documentación Swagger.
+- Manejo de endpoints, parámetros y respuestas.
+
+OBSERVACIONES
+
+La API PetStore es pública, por lo que los datos pueden variar
+entre ejecuciones o ser modificados por otros usuarios.
+
+Esta práctica resultó especialmente interesante para mí porque previamente había trabajado pruebas de APIs utilizando Postman, 
+lo cual facilitó la comprensión del flujo completo de negocio, desde la creación de una mascota hasta su consulta y actualización, 
+por lo pude identificar correctamente las entradas y salidas de cada servicio, así como los resultados esperados en cada escenario.
